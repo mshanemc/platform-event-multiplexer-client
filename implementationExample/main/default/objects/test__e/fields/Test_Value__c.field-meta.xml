@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <label>Test Value</label>
+    <type>Text</type>
+    <fullName>Test_Value__c</fullName>
+    <length>255</length>
+</CustomField>
